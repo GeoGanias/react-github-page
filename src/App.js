@@ -14,6 +14,7 @@ function App() {
       <Navbar/>
       <Routes>
           <Route path="/" element={<Home/>}/>
+          <Route path="react-github-page/" element={<Home/>}/>
           <Route path="/SVG" element={<SVGAnimations/>} />
           <Route path="/Visualizations" element={<Visualizations/>} />
           <Route path="/Papers" element={<Papers/>} />
