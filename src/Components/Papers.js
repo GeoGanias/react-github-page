@@ -29,9 +29,16 @@ const Papers = () => {
                     </td>
                     </tr>
                     <tr>
-                    <td>Review for Paper "???" by ? et al</td>
-                    <td className="text-start">This is an honest review and opinion about ??? by ? et al in an absolutely astouuning topic. Of course im talking about the topic of ?.
-                    There is little to none previous work talking about ??, which is the main point of the authors, something that really adds to this work as it is a milestone for the field of ???.
+                    <td>Review for Paper "Perception! Immersion! Empowerment! Superpowers as Inspiration for Visualization" by Wesley Willett et al</td>
+                    <td className="text-start">
+                        <li>The paper introduces a framework that draws parallels between fictional superpowers and real-world visualization and epistemic tools. This has never done before and is a work that will probably help researchers come up with new visualization systems, tools, ideas and sensory augmentation projects, which may turn out to be helpful for mankind.
+                        </li>
+                        <li>It is very interesting that many fields, Data Visualization included, take inspiration from science fiction to make a breakthrough or create something new. It can be explained though, as fiction existed in our lives long before we had the technology to actually simulate ideas, similar to superpowers. 
+                        </li>
+                        <li>The fact that they used comic fonts for the figures' captions is very funny to me. However the paper could benefit from figures depicting the real world analogy of some of these superpowers, either from VR applications or even desktop applications or games.
+                        </li>
+                        <li>Τhe paper could explore the potential risks and ethical considerations of designing visualization systems based on fictional superpowers. There is a number of these superpowers that use personal data of people around. Where is the line? When should we consider weather the superpowers are ethical?
+                        </li>
                     </td>
                     </tr>
                 </tbody>
