@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-github-page/static/css/main.f3d23a6d.css",
-    "main.js": "/react-github-page/static/js/main.4af26a05.js",
+    "main.js": "/react-github-page/static/js/main.3795c69a.js",
     "static/js/453.ed3810f9.chunk.js": "/react-github-page/static/js/453.ed3810f9.chunk.js",
     "static/media/Giorgos_Ganias.jpg": "/react-github-page/static/media/Giorgos_Ganias.ca36d923c6c5302e5229.jpg",
     "static/media/tiny-chip-FT.webp": "/react-github-page/static/media/tiny-chip-FT.b61f81c253db7f077adc.webp",
@@ -11,11 +11,11 @@
     "static/media/life-satisfaction-by-age-desktop.webp": "/react-github-page/static/media/life-satisfaction-by-age-desktop.817a51b37d071d06d5b3.webp",
     "index.html": "/react-github-page/index.html",
     "main.f3d23a6d.css.map": "/react-github-page/static/css/main.f3d23a6d.css.map",
-    "main.4af26a05.js.map": "/react-github-page/static/js/main.4af26a05.js.map",
+    "main.3795c69a.js.map": "/react-github-page/static/js/main.3795c69a.js.map",
     "453.ed3810f9.chunk.js.map": "/react-github-page/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f3d23a6d.css",
-    "static/js/main.4af26a05.js"
+    "static/js/main.3795c69a.js"
   ]
 }
